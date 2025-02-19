@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My skills:</h3>
+<h3 align="center">Tech stack:</h3>
 
 ###
 
